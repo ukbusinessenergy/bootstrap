@@ -25,6 +25,10 @@
 
 <br>
 
+Stage 1 - UK Business Energy will be using the Bootstrap framework on our website [UK Business Energy](https://ukbusinessenergy.co.uk) to create the responsive page elements.
+
+Stage 2 - We will use google PageSpeed testing to ensure pages are fast.
+
 ## Table of contents
 
 - [Quick start](#quick-start)
